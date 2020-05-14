@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mattdaan</string>
+    <string name="this_is_votercard_page">This is Votercard page</string>
+    <string name="enter_your_10_digits_pan_number">Enter your 10 digits PAN number</string>
+    <string name="enter_your_12_digits_aadhar_number">Enter your 12 digits Aadhar number</string>
+    <string name="aadhar_number">Aadhar Number</string>
+    <string name="voter_id">Voter id</string>
+    <string name="enter_your_10_digit_voter_id">Enter your 10 digit Voter id</string>
+    <string name="pan_number">PAN number</string>
+    <string name="choose_your_medium_to_vote">CHOOSE YOUR MEDIUM TO VOTE</string>
+    <string name="submit">SUBMIT</string>
+    <string name="authenticate">AUTHENTICATE</string>
+    <string name="tap_the_icon_to_start">Tap the icon to start</string>
+    <string name="fingerprint_authentication_required">FINGERPRINT AUTHENTICATION REQUIRED</string>
+    <string name="button_for_fingerprint_authentication">Button for fingerprint authentication</string>
+    <string name="choose_the_party_you_want_to_vote">Choose the party you want to vote</string>
+
+</resources>
